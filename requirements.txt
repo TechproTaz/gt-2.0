@@ -27,7 +27,6 @@ Flask-Login==0.5.0
 Flask-SQLAlchemy==2.5.1
 Frozen-Flask==0.18
 future==0.18.2
-gpg===1.14.0-unknown
 greenlet==1.1.2
 gyp==0.1
 helpdev==0.7.1
