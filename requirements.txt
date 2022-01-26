@@ -20,7 +20,6 @@ decorator==4.4.2
 distro==1.5.0
 distro-info==1.0
 dnspython==2.0.0
-Electrum==4.0.9
 Flask==1.1.2
 Flask-Bcrypt==0.7.1
 Flask-HTTPAuth==3.2.4
